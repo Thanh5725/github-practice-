@@ -1,2 +1,3 @@
 Welcome to GitHub Practice!
-Update welcome on main
+Enjoy your coding!
+Let's learn Git!
